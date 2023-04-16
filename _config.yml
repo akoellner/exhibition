@@ -60,3 +60,8 @@ google_fonts:
     weights: "400,400i,700,700i"
   - name: "Questrial"
     weights: "400,400i,700,700i"
+
+footer_scripts:
+  - /assets/js/main.min.js
+  - https://unpkg.com/aos@next/dist/aos.js
+  - /assets/js/aos-init.js
