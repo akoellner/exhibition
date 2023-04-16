@@ -14,3 +14,10 @@ After five hours of hiking, we arrived at the base camp at 3,500 metres altitude
 Being rewarded with a stunning view of the active volcano.
 
 ![active fuego]({{ '/images/DSC_0225.jpg' | absolute_url }}){: .align-center}
+
+### Sunrise Hike
+
+Waking up at 4am to hike up even further on volcano acatenango.  
+Above the clouds -  overlooking Antigua and volcano Fuego.  
+
+![sunrise fuego]({{ '/images/DSC_0353.jpeg' | absolute_url }}){: .align-center}
