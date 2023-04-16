@@ -54,3 +54,9 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+google_fonts:
+  - name: "Tinos"
+    weights: "400,400i,700,700i"
+  - name: "Questrial"
+    weights: "400,400i,700,700i"

@@ -1,0 +1,18 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+sitemap: false
+---
+
+$serif-font-family: "Tinos", serif;
+$sans-serif-font-family: "Questrial", sans-serif;
+$monospace-font-family: Menlo, Consolas, Monaco, "Courier New", Courier, monospace;
+
+$base-font-family: $serif-font-family;
+$headline-font-family: $sans-serif-font-family;
+$title-font-family: $sans-serif-font-family;
+$description-font-family: $sans-serif-font-family;
+$meta-font-family: $sans-serif-font-family;
+
+@charset "utf-8";
+
+@import "so-simple";
