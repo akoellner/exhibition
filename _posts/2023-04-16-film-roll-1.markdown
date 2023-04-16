@@ -6,14 +6,20 @@ categories: travel guatemala
 ---
 ## Volcano Acatenango 
 
-further ascending volcano Acatenango after having left the cloud forest  
+further ascending volcano Acatenango after having left the cloud forest
+{:data-aos="fade-in"}
 
 ![eruption fuego]({{ '/images/DSC_0211_edit.jpg' | absolute_url }}){: .align-center}
+{:data-aos="fade-in"}
 
 breathtaking view of active volcano fuego from the base camp
+{:data-aos="fade-in"}
 
 ![active fuego]({{ '/images/DSC_0225.jpg' | absolute_url }}){: .align-center}
+{:data-aos="fade-in"}
 
 sunrise hike at 4am
+{:data-aos="fade-in"}
 
 ![sunrise]({{ '/images/DSC_0350_edit.jpg' | absolute_url }}){: .align-center}
+{:data-aos="fade-in"}
