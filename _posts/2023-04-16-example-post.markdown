@@ -20,4 +20,4 @@ Being rewarded with a stunning view of the active volcano.
 Waking up at 4am to hike up even further on volcano acatenango.  
 Above the clouds -  overlooking Antigua and volcano Fuego.  
 
-![sunrise fuego]({{ '/images/DSC_0353.jpeg' | absolute_url }}){: .align-center}
+![sunrise fuego]({{ '/images/DSC_0349.jpeg' | absolute_url }}){: .align-center}
