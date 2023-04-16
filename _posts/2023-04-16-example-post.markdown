@@ -13,4 +13,4 @@ After five hours of hiking, we arrived at the base camp at 3,500 metres altitude
 
 Being rewarded with a stunning view of the active volcano.
 
-![active fuego]({{ '/images/DSC_0353.jpeg' | absolute_url }}){: .align-center}
+![active fuego]({{ '/images/DSC_0225.jpeg' | absolute_url }}){: .align-center}
