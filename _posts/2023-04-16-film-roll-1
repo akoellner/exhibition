@@ -1,8 +1,8 @@
 ---
-layout:post
-title:"Film Roll"
-date: 2023-04-26 09:55:00 +0200
-categories: travel | guatemala
+layout: post
+title: "Film Roll"
+date: 2023-04-16 09:55:00 +0200
+categories: travel guatemala
 ---
 ## Volcano Acatenango 
 
@@ -10,7 +10,7 @@ further ascending volcano Acatenango after having left the cloud forest
 
 ![eruption fuego]({{ '/images/DSC_0211_edit.jpg' | absolute_url }}){: .align-center}
 
-breathtaking view from the base camp
+breathtaking view of active volcano fuego from the base camp
 
 ![active fuego]({{ '/images/DSC_0225.jpg' | absolute_url }}){: .align-center}
 
