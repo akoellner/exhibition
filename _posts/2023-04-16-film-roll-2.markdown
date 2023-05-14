@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Film Roll"
+date: 2023-04-16 09:55:00 +0200
+categories: travel portugal
+---
+## Algarve
+
+finally, the sun is out and we get to explore the cliffs
+{:data-aos="fade-in"}
+
+![cliffs]({{ '/images/DSC_7584.jpg' | absolute_url }}){: .align-center}
+{:data-aos="fade-in"}
+
+breathtaking views from the cliffs in the afternoon sun
+{:data-aos="fade-in"}
+
